@@ -5,6 +5,7 @@ The inspiration for Assist911 stemmed from the challenges faced by 911 dispatche
 
 ![Uploading image.png…]()
 
+77--
 
 ### **What it does**  
 Assist911 is an AI-powered chatbot designed for emergency dispatchers. It provides:  
